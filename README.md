@@ -13,6 +13,6 @@ Skills: C# / JAVA / PYTHON / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=atillakalay&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=atillakalay)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=atilla-kalay-0a6274163)  
 
 ![Profile views](https://gpvc.arturio.dev/atillakalay)  
