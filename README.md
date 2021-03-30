@@ -2,7 +2,7 @@
 #### I am a student interested in software.
 I am a student of Konya Selcuk University, Management Informations System . I am interested in Back-end and Front-end . I like to write code .
 
-Skills: C# / JAVA / PYTHON / REACT / HTML / CSS
+Skills: C# / JAVA / PYTHON / REACT / ANGULAR / HTML / CSS
 
 - 🔭 I’m currently working on C# and Angular . 
 - 🌱 I’m currently learning Java , Python and React 
