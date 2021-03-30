@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Atilla
+### Hi there , my name is Atilla 👋
 #### I am a student interested in software.
 I am a student of Konya Selcuk University, Management Informations System . I am interested in Back-end and Front-end . I like to write code .
 
