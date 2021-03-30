@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Atilla from Turkey 
 #### I am a student interested in software.
-I am a student of Konya Selcuk University, Department of Management Information Systems . I am interested in Back-end and Front-end . I like to write code .
+I am a student of Konya Selcuk University, Management Informations System . I am interested in Back-end and Front-end . I like to write code .
 
 Skills: C# / JAVA / PYTHON / HTML / CSS
 
