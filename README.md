@@ -4,7 +4,7 @@ I am a student of Konya Selcuk University, Management Informations System . I am
 
 Skills: C# / HTML / CSS
 
-- 🔭 I’m currently working on C# and Angular . 
+- 🔭 I’m currently working on C# and Java . 
 - 🌱 I’m currently learning Java , Python and React 
 - 📫 How to reach me: atilla.kalayy@gmail.com 
 
