@@ -1,6 +1,8 @@
-### Hi there , my name is Atilla 👋
-#### I am a student interested in software.
-I am a student of Konya Selcuk University, Management Informations System . I am interested in Back-end and Front-end . I like to write code .
+### Hello! My name is Atilla Kalay, and I am a software developer.
+
+I am a strong team player who enjoys working with my teammates and taking on various responsibilities. I have a diverse range of knowledge and skills. Throughout my educational journey, I have undertaken efforts to improve myself in the field of software development, and I continue to do so.
+
+To enhance my skills, I actively participate in platforms such as Udemy, YouTube, and BTK Academy. I possess a solid foundation and problem-solving abilities, enabling me to provide solutions to challenges that arise in projects. I am highly motivated and eager to learn and stay up to date with the latest technological advancements. In my social life, you can find me spending time with my family, reading books, or pursuing my passion for learning new languages such as English.
 
 # 💫 About Me:
 🔭 I’m currently working on C# and Java .<br>🌱 I’m currently learning Java , Python and React<br>📫 How to reach me: atilla.kalayy@gmail.com
